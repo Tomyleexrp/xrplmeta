@@ -1,7 +1,7 @@
-.DS_Store
-.vs
-.npm
-node_modules
-package-lock.json
-deps/build
-config.toml
+Tomyleexrp.DS_Store
+Tomyleexrp.vs
+Tomyleexrp.npm
+Tomyleexrp.node_modules
+Tomyleexrp.package-lock.json
+Tomyleexrp.deps/build
+Tomyleexrp.config.toml
